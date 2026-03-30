@@ -22,13 +22,15 @@ It includes a set of shell scripts along with a custom open-source manifesto, he
 ---
 
 ## 📂 Project Structure
-oss-audit-[your-rollnumber]/
+oss-audit-24BCE10309/
 │── script1_system_identity.sh
 │── script2_package_inspector.sh
 │── script3_disk_auditor.sh
 │── script4_log_analyzer.sh
 │── script5_manifesto_generator.sh
 │── README.md
+
+---
 
 
 ---
@@ -48,11 +50,5 @@ oss-audit-[your-rollnumber]/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/oss-audit-[your-rollnumber].git
-cd oss-audit-[24BCE10309]
-🛠️ Technologies Used
-Bash (Shell Scripting)
-Linux (Ubuntu)
-Git
-GitHub
-Python
+git clone https://github.com/sarvagya-05/oss-audit-24BCE10309.git
+cd oss-audit-24BCE10309
