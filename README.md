@@ -88,4 +88,4 @@ It includes a set of shell scripts along with a custom open-source manifesto, he
 ## 👨‍💻 Author
 
 Sarvagya Shrivastava  
-B.Tech CSE Student
+
