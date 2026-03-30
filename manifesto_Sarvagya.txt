@@ -1,0 +1,13 @@
+===== My Open Source Manifesto =====
+Date: 29 March 2026
+Author: Sarvagya
+
+Every day, I rely on Python — a tool built not for profit,
+but for the freedom to use, study, share and improve.
+To me, freedom means Choice — and open source makes that real.
+One day I will build A study planner and release it freely,
+so that others can stand on my shoulders, just as I have stood
+on the shoulders of those who came before me.
+Open source is not just a license. It is a philosophy.
+
+====================================
