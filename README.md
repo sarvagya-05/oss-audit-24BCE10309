@@ -1,17 +1,27 @@
-📌 Overview
+# 🚀 Open-Source-Audit
 
-Open-Source-Audit is a project developed as part of the Open Source Software course.
-This project focuses on analyzing Python and demonstrating practical Linux skills using Bash scripting.
+---
 
-It includes a detailed audit of Python’s origin, license, ecosystem, and Linux footprint, along with five shell scripts that automate system-level tasks.
+## 📌 Overview
 
-🎯 Objectives
-Understand open-source philosophy and licensing
-Analyze Python as an open-source software
-Gain hands-on experience with Linux commands
-Learn and implement Bash scripting concepts
-Develop understanding of system-level automation
-📂 Project Structure
+Open-Source-Audit is a beginner-friendly project developed as part of the Open Source Software course.  
+This project focuses on analyzing Python as an open-source software and demonstrates the use of Bash scripting, automation, and Git/GitHub workflows.
+
+It includes a set of shell scripts along with a custom open-source manifesto, helping users understand real-world scripting practices and project organization.
+
+---
+
+## 🎯 Objectives
+
+- Learn and practice Shell (Bash) scripting  
+- Understand Git version control  
+- Explore GitHub project management  
+- Analyze Python as open-source software  
+- Promote open-source contribution mindset  
+
+---
+
+## 📂 Project Structure
 oss-audit-[your-rollnumber]/
 │── script1_system_identity.sh
 │── script2_package_inspector.sh
@@ -19,32 +29,30 @@ oss-audit-[your-rollnumber]/
 │── script4_log_analyzer.sh
 │── script5_manifesto_generator.sh
 │── README.md
-⚙️ Features
-📜 Five Bash scripts for system analysis and automation
-🧠 Beginner-friendly implementation of scripting concepts
-🛠️ Real-time Linux command usage
-📄 Open Source Manifesto generator
-📊 Practical understanding of Python in Linux environment
-▶️ How to Run the Project
-1. Clone the repository
-git clone <your-repo-link>
-cd oss-audit-[your-rollnumber]
-2. Give execute permission
-chmod +x *.sh
-3. Run any script
-./script1_system_identity.sh
+
+
+---
+
+## ⚙️ Features
+
+- 📜 Multiple Bash scripts for automation  
+- 🧠 Beginner-friendly logic and structure  
+- 🛠️ Practical implementation of Linux commands  
+- 📄 Open-source manifesto generator  
+- 📁 Well-organized project structure  
+
+---
+
+## ▶️ How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/oss-audit-[your-rollnumber].git
+cd oss-audit-[24BCE10309]
 🛠️ Technologies Used
 Bash (Shell Scripting)
 Linux (Ubuntu)
 Git
 GitHub
-Python (Open Source Software under study)
-📘 Learning Outcomes
-
-By working on this project, I learned:
-
-How open-source software works in real systems
-Basics of Linux file structure and commands
-Writing and executing shell scripts
-Automating system-level tasks
-Understanding open-source ethics and licensing
+Python
